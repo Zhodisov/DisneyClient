@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Whitney-Semibold Regular";
+    background: #53514c;
+}
+
+ul {
+    list-style-type: none;
+    top: 0;
+    left: 0;
+    width: 15%;
+    background-color: #302e2c;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    font-size: 14px;
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+li a.active {
+    background-color: #161615;
+}
+
+li a:hover:not(.active) {
+    background-color: #53514c;
+}
+
+aside {
+    margin-left: 16%;
+    flex-grow: 1;
+
+    font-size: 14px;
+
+    overflow: auto;
+}
+
+.info-d {
+    display: none;
+}
+
+.info-d.active {
+    display: block;
+}
+
+p {
+    margin: 8px 0;
+}
+
+.shortcut {
+    margin-top: 18px;
+    max-width: 300px;
+}
+
+.shortcut input[type=checkbox] {
+    vertical-align: middle;
+}
+/* Reset and Base Styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #333;
+    padding: 10px 0;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a.active, nav a:hover {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 1000px;
+}
+
+/* Responsive Media Queries */
+@media screen and (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav li {
+        margin-bottom: 10px;
+    }
+
+    nav li:last-child {
+        margin-bottom: 0;
+    }
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: #282a36; /* Fond violet foncé */
+    color: #50fa7b; /* Texte vert Evangelion */
+    font-family: 'Arial', sans-serif; /* Police futuriste */
+}
+
+.eva-nav-bar {
+    background-color: #44475a; /* Violet légèrement plus clair pour le contraste */
+    padding: 10px 0;
+    text-align: center;
+}
+
+.eva-page-main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.eva-page-main {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}

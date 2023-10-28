@@ -1,0 +1,21 @@
+.eva-nav-btn, .eva-key-btn {
+    background: linear-gradient(90deg, #ff79c6, #8be9fd); /* Dégradé du rose Evangelion au bleu */
+    border: none;
+    border-radius: 5px;
+    color: #282a36; /* Texte foncé sur fond clair */
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.eva-nav-btn:hover, .eva-key-btn:hover {
+    background: linear-gradient(90deg, #8be9fd, #ff79c6); /* Dégradé inversé pour l'effet de survol */
+}
+
+.eva-key-input {
+    background-color: #44475a;
+    border: 2px solid #50fa7b; /* Bordure verte Evangelion */
+    border-radius: 5px;
+    color: #50fa7b; /* Texte vert Evangelion */
+    padding: 5px;
+}

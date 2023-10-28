@@ -1,0 +1,28 @@
+{
+	"discord_admins": [1125787284374048808, 607240771896082432, 688620054895656979],
+	"discord_names": ["Sheeeeeeeesh", "BlancSnz", "Jodis"],
+	
+	"discord_log_channel": 1149977936921903197,
+	"discord_log_channel2": 1149977951190921246,
+	"discord_priv_channel": 1149977991422677063,
+	"discord_priv_channel2": 1149978009227509821,
+	"discord_major_role_id": 1149978037455163392,
+  
+	"map_storage_fetch": true,
+
+	"client_version": "1.7",
+	"standalone_url": "",
+	"update_url": "",
+	"version": "1.7",
+
+	"soft_forbidden_keys": [
+		"ciro2022"
+	],
+
+	"storage_allowed_levels": [
+		"SILVER",
+		"GOLD",
+		"GOLD_II",
+		"PLATINUM"
+	]
+}

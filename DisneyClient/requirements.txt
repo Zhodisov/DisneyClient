@@ -1,0 +1,10 @@
+aiodns
+aiofiles
+discord.py
+gspread
+mysqlclient
+SQLAlchemy
+python-dotenv
+ujson
+pymysql
+pygithub
