@@ -2,13 +2,16 @@
 
 Welcome to DisneyClient! This README will guide you through setting up the DisneyClient. If you encounter any issues or need assistance, feel free to contact us on Discord or via email. 📧
 
+# Since 2021, DisneyClient has been available for your use. While we won't continue the project, users with the paid private version will receive support to help set up everything.
+
 ### Contributors
+- Monkus
+- Jodis
 - BlancSnz
 - BialySnZ
 - Norshin
 - Jawad
 
-Since 2021, DisneyClient has been available for your use. While we won't continue the project, users with the paid private version will receive support to help set up everything.
 
 ## Requirements
 
