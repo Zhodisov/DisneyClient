@@ -10,7 +10,7 @@ Welcome to DisneyClient! This README will guide you through setting up the Disne
 - DailyEm
 - ラ・ムカテ
 - BlancSnz
-- BialySnz
+- Quorenn
 - Jawad
 
 
