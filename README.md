@@ -7,9 +7,10 @@ Welcome to DisneyClient! This README will guide you through setting up the Disne
 ### Contributors
 - Monkus
 - Jodis
+- DailyEm
+- ラ・ムカテ
 - BlancSnz
-- BialySnZ
-- Norshin
+- BialySnz
 - Jawad
 
 
