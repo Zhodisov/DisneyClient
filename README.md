@@ -11,8 +11,8 @@
 </p>
 
 > [!IMPORTANT]
-> DisneyClient was a self-hosted Transformice menu, maintained from 2021 to 2024. It is no longer updated and gets no support.
-> Its successor is **[Lushvae](https://lushvae.xyz)**, made by the same team.
+> DisneyClient was a self-hosted Transformice menu, originally created by **[flyingwr](https://github.com/flyingwr)** ;) and maintained from 2021 to 2024. It is no longer updated and gets no support.
+> Its successor is **[Lushvae](https://lushvae.xyz)**.
 
 ## Then and now
 
@@ -37,6 +37,11 @@ Each licence covers one PC. Lushvae is closed source and only distributed throug
 <p align="center">
   <a href="https://discord.com/users/554278644428570645"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
+
+## Credits
+
+The original DisneyClient was created by **[flyingwr](https://github.com/flyingwr)** ;)
+All credit for the first version of the client goes to him.
 
 ## Legacy setup
 
